@@ -1,7 +1,7 @@
 **👋 Welcome to My GitHub Profile!**
 
 ### About Me
-Hey there! I'm [Willian Ribeiro](@willbribeiro), a passionate Chemical Engineer turned Process Engineer with a knack for programming. My journey into the world of technology began with a genuine interest in understanding the intricate processes that drive industries. Over time, my curiosity led me to explore the intersection of engineering and programming, where I discovered endless possibilities to optimize processes and solve complex problems.
+Hey there! I'm [Willian Ribeiro](https://github.com/willbribeiro), a passionate Chemical Engineer turned Process Engineer with a knack for programming. My journey into the world of technology began with a genuine interest in understanding the intricate processes that drive industries. Over time, my curiosity led me to explore the intersection of engineering and programming, where I discovered endless possibilities to optimize processes and solve complex problems.
 
 ### 🎓 Education
 - Bachelor's Degree in Chemical Engineering
